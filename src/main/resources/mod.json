@@ -1,0 +1,14 @@
+{
+	"main":"groovy:thhi.vertx.renderer.DeployerVerticle",
+ 	"preserve-cwd": true,
+	
+	// Mandatory fields
+	"description":"Deployer Module",
+	"licenses": ["Creative Commons Attribution 3.0 Unported License"],
+	"author": "Thomas Hirsch",
+	
+	// Optional fields
+	"developers": [],
+	"keywords": [],
+	"homepage": ""
+}
